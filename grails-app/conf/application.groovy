@@ -1,0 +1,1 @@
+grails.interceptors.issue.admin.allowedIps = '127.0.0.0'
